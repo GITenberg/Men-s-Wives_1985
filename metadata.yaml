@@ -1,0 +1,33 @@
+_repo: Men-s-Wives_1985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: "Men's Wives (1852) is a novel by William Makepeace Thackeray\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1985'
+  wikidata: Q6816135
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Ravenswing -- Mr. and Mrs. Frank Berry -- Dennis Haggarty's wife.
+title: Men's Wives
+url: http://www.gutenberg.org/ebooks/1985
+wikipedia:
+- https://en.wikipedia.org/wiki/Men%27s_Wives
